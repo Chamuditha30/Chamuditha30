@@ -2,7 +2,7 @@
   <picture>
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="120px">
   </picture>
-  <h1>Hello there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"> I'm Chamuditha </h1>
+  <h1>Hello there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"> I'm Chamuditha <img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/handshake.gif" width="40px"></h1>
   <h3>Passionate IT Student 👨‍🎓 Exploring web app projects for join & learn 🌏</h3>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
