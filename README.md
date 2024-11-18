@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="120px">
+    <img src="https://drive.google.com/file/d/1iSfFSmLRrjXJOa3am2Ostlvbo5lOgKAu/view" width="120px">
   </picture>
   <h1>Hello there, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"> I'm Chamuditha <img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/handshake.gif" width="40px"></h1>
   <h3>Passionate IT Student 👨‍🎓 Exploring web app projects for join & learn 🌏</h3>
@@ -18,7 +18,7 @@
     <td>
       <ul>
         <li>🎓 I’m an Undergraduate at <strong>OUSL</strong></li>
-        <li>💡 I’m currently learning <strong>React JS</strong></li>
+        <li>💡 I’m currently learning <strong>MERN STACK</strong></li>
         <li>🔎 I'm looking to join <strong>Trainee Web App Projects</strong></li>
         <li>🎯 I want to be a successful <strong>Web App Developer</strong></li>
         <li>📧 Reach me <strong>chamudithakalhara123@gmail.com</strong></li>
