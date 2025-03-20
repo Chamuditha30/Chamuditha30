@@ -7,7 +7,7 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99m+an+Undergraduate+at+OUSL;I%E2%80%99m+currently+learning+React+JS;I'm+looking+for+join+Web+App+Projects;I+want+to+be+success+Web+App+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99m+an+Undergraduate+student+at+OUSL;I%E2%80%99m+MERN+STACK+freelancer;JavaScript+%7C+Python+%7C+React+%7C+Node)](https://git.io/typing-svg)
   
   <p> <img src="https://komarev.com/ghpvc/?username=Chamuditha30&label=Profile%20views&color=0e75b6&style=flat" alt="chamuditha30" /> </p>
 </div>
@@ -18,8 +18,8 @@
     <td>
       <ul>
         <li>🎓 I’m an Undergraduate at <strong>OUSL</strong></li>
-        <li>💡 I’m currently learning <strong>MERN STACK</strong></li>
-        <li>🔎 I'm looking to join <strong>Trainee Web App Projects</strong></li>
+        <li>🧑🏾‍💻 I’m <strong>MERN STACK</strong> freelancer</li>
+        <li>💡 I'm diving into <strong>MernStack & Python</strong>, mastering the best of both stacks</li>
         <li>🎯 I want to be a successful <strong>Web App Developer</strong></li>
         <li>📧 Reach me <strong>chamudithakalhara123@gmail.com</strong></li>
       </ul>
