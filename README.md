@@ -21,7 +21,7 @@
         <li>🧑🏾‍💻 I’m <strong>MERN STACK</strong> freelancer</li>
         <li>💡 I'm diving into <strong>MernStack & Python</strong>, mastering the best of both stacks</li>
         <li>🎯 I want to be a successful <strong>Web App Developer</strong></li>
-        <li>📧 Reach me <strong>chamudithakalhara123@gmail.com</strong></li>
+        <li>🌍 <strong><a href="https://spiffy-duckanoo-ac2011.netlify.app/" target="_blank">Personal Portfolio</a></strong></li>
       </ul>
     </td>
     <td>
