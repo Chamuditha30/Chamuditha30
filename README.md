@@ -17,7 +17,7 @@
   <tr>
     <td>
       <ul>
-        <li>🌍 <strong><a href="" target="_blank">Personal Portfolio</a></strong></li>
+        <li>🌍 <strong><a href="" target="_blank">Portfolio</a></strong></li>
         <li>🎓 I’m an Undergraduate at <strong>OUSL</strong></li>
         <li>🧑🏾‍💻 I’m <strong>MERN STACK</strong> freelancer</li>
         <li>💡 I'm diving into <strong>MernStack & Python</strong>, mastering the best of both stacks</li>
